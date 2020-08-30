@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="33" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="33" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+      <class name="com.org.LearningMaven.SeleniumTest">
+        <test-method status="PASS" signature="ElementsUIn()[pri:0, instance:com.org.LearningMaven.SeleniumTest@61832929]" name="ElementsUIn" duration-ms="0" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUIn -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:com.org.LearningMaven.SeleniumTest@61832929]" name="BrowserAutomation" duration-ms="0" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- com.org.LearningMaven.SeleniumTest -->
+      <class name="com.org.LearningMaven.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:com.org.LearningMaven.AppiumTest@5b275dab]" name="IOSApps" duration-ms="4" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndrouid()[pri:0, instance:com.org.LearningMaven.AppiumTest@5b275dab]" name="NativeAppAndrouid" duration-ms="1" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndrouid -->
+      </class> <!-- com.org.LearningMaven.AppiumTest -->
+      <class name="com.org.LearningMaven.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:com.org.LearningMaven.RESTAPITest@29774679]" name="deleteTwitter" duration-ms="0" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:com.org.LearningMaven.RESTAPITest@29774679]" name="postJira" duration-ms="0" started-at="2020-08-11T23:18:37 AEST" finished-at="2020-08-11T23:18:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- com.org.LearningMaven.RESTAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
